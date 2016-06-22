@@ -1,5 +1,5 @@
 # PsychoTypo
-Library to randomize your text elements. 
+## Library to make your text elements go PSYCHO.
 
 To get started you need to include the framework into your html.
 You can do this by linking the javascript(.js) file, copy paste the following into your header:
